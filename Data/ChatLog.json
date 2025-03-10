@@ -1,0 +1,58 @@
+[
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye?"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Sam!"
+    },
+    {
+        "role": "user",
+        "content": "How are you jarvis?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thank you for asking!"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye?"
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye Sam!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Sam!"
+    },
+    {
+        "role": "user",
+        "content": "You took exactly 5 seconds to respond?"
+    },
+    {
+        "role": "assistant",
+        "content": "Yes"
+    },
+    {
+        "role": "user",
+        "content": "This is not a compliment?"
+    },
+    {
+        "role": "assistant",
+        "content": "No"
+    }
+]
